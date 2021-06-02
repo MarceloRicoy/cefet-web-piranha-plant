@@ -1,0 +1,53 @@
+html{
+			min-height: 100%;
+		}
+
+		body {
+        background-image: url("../imagens/desenho-loucao.jpg"); 
+        background-size: cover;
+
+        color: black;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 10%;
+
+        font-family: "Arial", sans-serif;
+        font-size: 14px;
+
+        text-align: justify;
+
+        min-height: 100%;
+      }
+
+
+		h1 {
+        color: limegreen;
+        font-family: "Times new Roman", serif;
+        text-align: left;
+        font-size: 28px;
+        }
+		td{
+			border: 1px solid black;
+		}
+		table{
+			border-collapse: collapse;
+			border: 1px solid black;
+			text-align: center;
+			width: 600px;
+			color: white;
+
+			margin: auto;
+		}
+		thead{
+			background-color: gray;
+			border-bottom: 1px solid black;
+		}
+		#topico{
+			background-color: gray;
+			border-bottom: 1px solid black;
+			border: 1px solid black;
+		}
+		tbody{
+			border: 1px solid black;
+			color: black;
+		}
